@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+   <test name = "UI Validation">
+    <classes>
+    <class name="testScripts.ValidateUrl">
+        <methods>
+        
+       
+      <!-- 	<include name="nonbiogen_user_manage" />
+        <include name="biogenproposal_admin_manage" />
+        <include name="admin_user_manage" />
+        <include name="edit_reseracher" />
+        <include name="editnonbiogen_user" />
+        <include name="editbiogenproposal_admin" />
+        <include name="editadmin_user" /> 
+         <include name="research_user_create" />
+        <include name="nonbiogen_create_User"/>
+        <include name="Biogen_Proposal_admin_create_user"/>
+        <include name="admin_create_user"/> 
+         <include name="researcher_dataaccess"/> 
+         <include name="researcher_managedataaccess"/>
+         <include name="NonBiogenProposalAdmin_manage"/>-->
+         
+      </methods>
+    </class>
+    </classes>
+  </test>
+</suite>
